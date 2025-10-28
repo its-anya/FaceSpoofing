@@ -58,9 +58,18 @@ The system will display "Real Face" for genuine faces and "Fake Face Detected!" 
 - Performance depends on lighting conditions; good lighting improves detection accuracy.
 - The system works best with frontal faces.
 
+<p align="center">
+  If you notice any bug please create a pull request  
+  <br>
+  We are an open source community contribute!
+</p>
+
+
+<!--
 ## Future Improvements
 
 - Implement deep learning-based spoofing detection for higher accuracy
 - Add support for multiple face detection and tracking
 - Improve performance in challenging lighting conditions
 - Add liveness detection through eye blink or head movement recognition
+-->

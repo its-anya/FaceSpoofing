@@ -11,6 +11,8 @@ This application detects face spoofing attempts during video calls using compute
 
 ## Installation
 
+make sure latest version Python 3.14.0 
+
 1. Install the required dependencies:
 
 ```
